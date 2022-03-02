@@ -2,6 +2,7 @@
 	"baseUrl": "https://notes-serverless-app.com",
 	"chromeWebSecurity": false,
 	"experimentalStudio": true,
+	"projectId": "orzm89",
 	"experimentalSessionSupport": true,
 	"env": {
 		"viewportWidthBreakpoint": 768
