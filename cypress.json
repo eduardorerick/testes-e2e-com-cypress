@@ -3,5 +3,8 @@
 	"chromeWebSecurity": false,
 	"experimentalStudio": true,
 	"experimentalSessionSupport": true,
-  "defaultCommandTimeout": 15000
+	"env": {
+		"viewportWidthBreakpoint": 768
+	},
+	"defaultCommandTimeout": 15000
 }
